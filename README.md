@@ -12,3 +12,5 @@ https://jreese8.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Johnathan Reese
+
+### ©️2019 Run Buddy, Inc
