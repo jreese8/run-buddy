@@ -1,9 +1,29 @@
 .hero {
-    background-image: url(../assets/images/hero-bg.jpg);
-    background-size: cover;
-    background-position: bottom;
-    position: relative;
-    height: auto;
-    text-align: center;
-    margin-bottom: 40px;
+  background-position: bottom;
+  height: auto;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+  .secondary-content {
+    Width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #024e76;
+  }
+
+  .secondary-content h3 {
+    font-size: 25px;
+    margin: 20px 0 20px 0;
+  }
+
+  .secondary-content p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px 0 20px 0;
+  }
+
+  .secondary-content li {
+    color: #39a6b2;
+    margin: 10px 0 10px 0;
   }
